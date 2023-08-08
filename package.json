@@ -1,0 +1,22 @@
+{
+  "name": "my-gaming-web",
+  "version": "1.0.0",
+  "description": "Web for downloading games(Dummy Data) using static in Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranKumar05/My-Gaming-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranKumar05/My-Gaming-Web/issues"
+  },
+  "homepage": "https://github.com/KaranKumar05/My-Gaming-Web#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

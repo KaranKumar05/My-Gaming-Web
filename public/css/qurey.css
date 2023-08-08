@@ -1,0 +1,28 @@
+@media (max-width:828px) {
+    .container nav .main > h1{
+        font-size: 2em;
+    }
+    .container nav .main > button{
+        font-size: .9em;
+        padding: 5px 8px;
+    }
+    .container nav .search{
+        font-size: 1.1em;
+    }
+    .container nav .search input{
+        font-size: .9em;
+    }
+}
+@media (max-width:600px) {
+    .container nav .main{
+        padding: 2em 1em;
+    }
+}
+@media (max-width:500px) {
+    .container nav .main{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: center;
+    }  
+}
